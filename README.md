@@ -1,9 +1,9 @@
-# Save shortcut
+# 💾Save shortcut script
 Simple bash script to save your pwd and give it an alias.
 
 This allows you to move to a given directory and save the location with shortcut name so you can move to it by just typing `cd location_name` in future.
 
-## Getting Started  
+## 🎬Getting Started  
 Before you begin, if it doesn't exist already create a path called `/.dirs`. For example:
 
 ```touch ~/.dirs```
@@ -29,7 +29,7 @@ save () {
 source ~/.dirs
 shopt -s cdable_vars
 ```
-## Using the Save function
+## 💻Using the Save function
 Move to the directory you use a lot or want to create a shortcut for:
 
 ```cd folder1/folder2/folder3/folder4```
