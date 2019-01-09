@@ -1,7 +1,7 @@
 ## 💾 Save shortcut script
 Simple bash script to save your pwd and give it an alias.
 
-This allows you to move to a given directory and save the location with shortcut name so you can move to it by just typing `cd location_name` in future.
+This allows you to move to a given directory and save the location with shortcut name so you can move to it by just typing `cd shortcut_name` in future.
 
 ## 🎬 Getting Started  
 Before you begin, if it doesn't exist already create a path called `/.dirs`. For example:
